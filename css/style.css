@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    background-image: url("../images/marcas\ de\ grupreysa.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+@media (min-width:780px){
+    body {
+        background-size: cover;
+    }
+    
+}
